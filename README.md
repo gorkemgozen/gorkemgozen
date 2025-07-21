@@ -1,16 +1,21 @@
-## Hi there 👋
+<img src="https://res.cloudinary.com/dj7m1xod7/image/upload/v1753058206/45BB103D-3525-4AF2-ADBE-182D7F31B11D_jqta1i.png" width="100%" />
 
-<!--
-**gorkemgozen/gorkemgozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Merhaba, Ben Görkem!</h2>
 
-Here are some ideas to get you started:
+### Web Developer & UI/UX Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Portfolyomu** halen daha geliştirmekteyim
+- 🌱 **Front-End Dev Community** 
+- 👨‍💻 Portfolyo siteme göz atmak için [gorkemgozen.vercel.app](https://gorkemgozen.vercel.app)
+- 🧠 Henüz öğrenme aşamasında olduğum diller; **TypeScript**, **TailwindCSS**, and **Next.js**
+- 📫 Bana ulaşmak için **ggozen12@gmail.com**
+
+---
+
+### 🧰 Tech Stack:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,html,css,tailwind,js,python,php,mysql" />
+</div>
+
+---
