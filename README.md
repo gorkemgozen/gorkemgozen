@@ -7,7 +7,7 @@
 - 🔭 **Portfolyomu** halen daha geliştirmekteyim
 - 🌱 **Front-End Dev Community** 
 - 👨‍💻 Portfolyo siteme göz atmak için [gorkemgozen.vercel.app](https://gorkemgozen.vercel.app)
-- 🧠 Henüz öğrenme aşamasında olduğum diller; **TypeScript**, **TailwindCSS**, and **Next.js**
+- 🧠 Henüz öğrenme aşamasında olduğum diller; **TypeScript**, **TailwindCSS** ve **Next.js**
 - 📫 Bana ulaşmak için **ggozen12@gmail.com**
 
 ---
