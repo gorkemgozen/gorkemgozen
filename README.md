@@ -7,15 +7,14 @@
 - 🔭 **Portfolyomu** halen daha geliştirmekteyim
 - 🌱 **Front-End Dev Community** 
 - 👨‍💻 Portfolyo siteme göz atmak için [gorkemgozen.vercel.app](https://gorkemgozen.vercel.app)
-- 🧠 Henüz öğrenme aşamasında olduğum diller; **TypeScript**, **TailwindCSS** ve **Next.js**
-- 📫 Bana ulaşmak için **ggozen12@gmail.com**
-
+- 📫 Bana ulaşmak için **ggozen12@gmail.com**a
+- 📝 Not: (Bu Github hesabımı uzun bir süredir sadece private projeler amacıyla kullanmaktayım.)
 ---
 
 ### 🧰 Tech Stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,html,css,tailwind,js,python,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,vue,next,nodejs,tailwind,js,ts,html,css,python,php,mysql" />
 </div>
 
 ---
