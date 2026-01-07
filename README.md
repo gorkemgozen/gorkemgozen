@@ -5,7 +5,7 @@
 ### Web Developer & UI/UX Designer
 
 - 🔭 **Portfolyomu** halen daha geliştirmekteyim
-- 🌱 **Front-End Dev Community** 
+- 🌱 **Front-End | Back-End Dev Community** 
 - 👨‍💻 Portfolyo siteme göz atmak için [gorkemgozen.vercel.app](https://gorkemgozen.vercel.app)
 - 📫 Bana ulaşmak için **ggozen12@gmail.com**
 - 📝 Not: (Bu Github hesabımı uzun bir süredir sadece private projeler amacıyla kullanmaktayım.)
